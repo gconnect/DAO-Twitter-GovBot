@@ -18,8 +18,8 @@ The bot covers general general governance cases of Protocols, Proposals, Vote Al
 - It can get the protocol name, proposal details like startTime and endTime, totalVoteCount etc.
 
 # Features to consider
-- Daily / weekly summary (large changes)
-- Enable reply when using mention the bot handle
+- Daily / weekly Alert on onging / new proposals and their endTime
+- Enable reply when user mention the bot handle
 - Handle user search cases i.e when a user tweet @dao_govbot aave voters. It should reply with the result gotten from the API
 - Add more search specific features as might be required by the user and as can be handled by the API
 
